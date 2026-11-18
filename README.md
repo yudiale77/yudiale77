@@ -1,38 +1,30 @@
-🖤 Salve! Eu sou o Yudi
+👋 Salve! Eu sou o Yudi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Iniciante+na+programa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo!" />💻 Bem-vindo ao meu universo da programação!
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Iniciante+na+programa%C3%A7%C3%A3o;Sempre+evoluindo+%F0%9F%9A%80" /></div>👨‍💻 Sobre mim
 
-Sou iniciante na programação e estou construindo minha jornada no mundo da tecnologia. Meu objetivo é aprender, evoluir e desenvolver projetos cada vez melhores.
+- 🌱 Iniciante no mundo da programação.
+- 💻 Aprendendo desenvolvimento e tecnologia.
+- 🚀 Criando meus primeiros projetos.
+- 🎯 Buscando evoluir todos os dias.
 
----
+⚡ Tecnologias
 
-🚀 Sobre mim
+<div align="center"><img src="https://skillicons.dev/icons?i=html,js,git,github,vscode&theme=dark" /></div>📊 Estatísticas do GitHub
 
-- 🌱 Atualmente aprendendo programação.
-- 💡 Interessado em tecnologia e desenvolvimento.
-- 📚 Sempre buscando novos conhecimentos.
-- 🎯 Focado em evoluir na programação.
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=yudiale77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudiale77&layout=compact&theme=tokyonight&hide_border=true" /></div>📈 Minha atividade
 
-🛠️ Tecnologias
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yudiale77&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" /></div>🔥 Sequência de contribuições
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,js,git,github,vscode" />
-</div>📊 Estatísticas do GitHub
+<div align="center"><img src="https://streak-stats.demolab.com?user=yudiale77&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /></div>🐍 Minha atividade
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</div>🐍 Minha atividade
+<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>🌐 Onde me encontrar
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />---
+<div align="center"><a href="https://github.com/yudiale77">
+<img src="https://img.shields.io/badge/GitHub-yudiale77-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="https://www.instagram.com/yudi_alexandre_?gwpx=OTB1bjFlc3VwcTVj">
+<img src="https://img.shields.io/badge/Instagram-Meu%20perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a></div>---
 
-📫 Contato
+<div align="center">❤️ Todo especialista já foi iniciante um dia!
 
-- 🐙 GitHub: "Meu perfil" (https://github.com/yudiale77)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />"Todo especialista já foi iniciante um dia." 🚀
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" /></div>
