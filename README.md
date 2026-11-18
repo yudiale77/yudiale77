@@ -22,7 +22,11 @@
 
 <div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=yudiale77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudiale77&layout=compact&theme=tokyonight&hide_border=true" /></div>📈 Minhas contribuições
 
-<div align="center"><img src="https://ghchart.rshah.org/00F7FF/yudiale77" alt="Calendário de contribuições do GitHub de Yudi" width="100%" /></div>🔥 Sequência de contribuições
+## 🐍 Minhas contribuições no GitHub
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/yudiale77/yudiale77/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=yudiale77&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /></div>🌐 Onde me encontrar
 
