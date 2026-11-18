@@ -22,7 +22,7 @@
 
 <div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=yudiale77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudiale77&layout=compact&theme=tokyonight&hide_border=true" /></div>📈 Minhas contribuições
 
-<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yudiale77&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" /></div>🔥 Sequência de contribuições
+<div align="center"><img src="https://ghchart.rshah.org/00F7FF/yudiale77" alt="Calendário de contribuições do GitHub de Yudi" width="100%" /></div>🔥 Sequência de contribuições
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=yudiale77&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /></div>🌐 Onde me encontrar
 
@@ -36,6 +36,5 @@
 
 <div align="center">💙 Todo especialista já foi iniciante um dia!
 
-Obrigado por visitar meu perfil! 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" /></div>
